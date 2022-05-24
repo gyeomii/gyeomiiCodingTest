@@ -21,9 +21,9 @@ public class ReportSolution {
 		}
 		
 		for(String key : reportMemberList.keySet()) {
-			HashSet<String> reporterSet = reportMemberList.get(key);
-			if(reporterSet.size() >= k) {
-				for(String user : reporterSet) {
+			HashSet<String> reportSet = reportMemberList.get(key);
+			if(reportSet.size() >= k) {
+				for(String user : reportSet) {
 					Integer num = mailCount.get(user);
 					mailCount.put(user, num+1);
 				}
