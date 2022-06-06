@@ -2,7 +2,7 @@ package BaekJoon.conditional;
 
 import java.util.Scanner;
 
-public class backjoon9498 {
+public class baekjoon9498 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int score = sc.nextInt();
