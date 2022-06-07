@@ -1,10 +1,14 @@
 package BaekJoon.basic;
 
+import java.util.Scanner;
+import java.util.StringTokenizer;
+ 
 public class basic {
 	public static void main(String[] args) {
-		System.out.println("\\    /\\ ");
-		System.out.println(" )  ( ')");
-		System.out.println("(  /  ) ");
-		System.out.println(" \\(__)| ");
+		Scanner sc = new Scanner(System.in);
+		String s = sc.nextLine();
+		sc.close();
+		StringTokenizer st = new StringTokenizer(s," ");
+		System.out.println(st.countTokens());	
 	}
 }
