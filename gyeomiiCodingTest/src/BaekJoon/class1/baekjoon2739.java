@@ -1,4 +1,4 @@
-package BaekJoon.iteration;
+package BaekJoon.class1;
 
 import java.util.Scanner;
 
