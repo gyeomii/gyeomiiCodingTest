@@ -15,7 +15,6 @@ public class baekjoon11720 {
 		}
 		System.out.println(sum);
 		
-		
 //		Scanner sc = new Scanner(System.in);
 //		int n = sc.nextInt();
 //		String str = sc.next();
