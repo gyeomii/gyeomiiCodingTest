@@ -2,7 +2,7 @@ package BaekJoon.class1;
 
 import java.util.Scanner;
 
-public class baekjoon2739 {
+public class baekjoon02739 {
 	public static void main(String[] args) {
 		// multiplication table
 		Scanner scanner = new Scanner(System.in);

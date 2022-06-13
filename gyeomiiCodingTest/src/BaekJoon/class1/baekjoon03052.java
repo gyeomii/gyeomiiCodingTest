@@ -3,7 +3,7 @@ package BaekJoon.class1;
 import java.io.*;
 import java.util.HashSet;
 
-public class baekjoon3052 {
+public class baekjoon03052 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		HashSet<Integer> h = new HashSet<>();

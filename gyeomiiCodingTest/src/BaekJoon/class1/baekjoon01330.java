@@ -2,7 +2,7 @@ package BaekJoon.class1;
 
 import java.util.Scanner;
 
-public class baekjoon1330 {
+public class baekjoon01330 {
 	public static void main(String[] args) {
 		// compare number
 		Scanner scanner = new Scanner(System.in);

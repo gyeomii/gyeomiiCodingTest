@@ -2,7 +2,7 @@ package BaekJoon.class1;
 
 import java.util.Scanner;
 
-public class baekjoon2577 {
+public class baekjoon02577 {
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		String str = Integer.toString(sc.nextInt()*sc.nextInt()*sc.nextInt());
