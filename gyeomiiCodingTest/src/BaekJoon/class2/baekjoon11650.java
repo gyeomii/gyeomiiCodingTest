@@ -24,7 +24,6 @@ public class baekjoon11650 {
 				return e1[0] - e2[0];
 			}
 		});
-
 		for (int i = 0; i < n; i++) {
 			System.out.println(arr[i][0] + " " + arr[i][1]);
 		}
